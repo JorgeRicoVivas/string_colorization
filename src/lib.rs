@@ -2,7 +2,7 @@
 
 //! [![crates.io](https://img.shields.io/crates/v/string_colorization.svg)](https://crates.io/crates/string_colorization)
 //! [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/JorgeRicoVivas/string_colorization/rust.yml)](https://github.com/JorgeRicoVivas/string_colorization/actions)
-//! [![docs.rs](https://img.shields.io/docsrs/string_colorization)](https://docs.rs/string_colorization/latest/string_colorization/)
+//! [![docs.rs](https://img.shields.io/docs.rs/string_colorization)](https://docs.rs/string_colorization/latest/string_colorization/)
 //! [![GitHub License](https://img.shields.io/github/license/JorgeRicoVivas/string_colorization)](https://github.com/JorgeRicoVivas/string_colorization?tab=CC0-1.0-1-ov-file)
 //! > *You are reading the documentation for string_colorization version 1.0.0*
 //!
