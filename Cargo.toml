@@ -1,0 +1,15 @@
+[package]
+name = "parsing_error"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+
+[dependencies]
+colored = "2.1.0"
+itertools = "0.13.0"
+indent = "0.1.1"
+
+[features]
+default = []
+std = []
