@@ -4,6 +4,7 @@
 [![GitHub License](https://img.shields.io/github/license/JorgeRicoVivas/string_colorization)](https://github.com/JorgeRicoVivas/string_colorization?tab=CC0-1.0-1-ov-file)
 
 > *You are reading the documentation for string_colorization version 1.0.0*
+
 Abstracts colorizing string from the [colored] crate by giving a struct [Colorizer] combining
 foreground, background and stylizations to strings that can be applied later, and then uses them
 on the [colorize] function to allow you to colorize a string given a series substring and

@@ -1,9 +1,17 @@
 [package]
 name = "string_colorization"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
+authors = ["Jorge Rico Vivas <jorgericosoftware@gmail.com>"]
+description = "Abstracts colorizing strings through a struct to then mass-apply multiple colorizations within the same string, created on top of the colored crate"
+repository = "https://github.com/JorgeRicoVivas/string_colorization"
+keywords = ["color", "string", "term-painter"]
+categories = ["no-std", "value-formatting"]
+license-file = "LICENSE.txt"
+readme = "README.md"
 
 [lib]
+crate-type = ["lib"]
 
 [dependencies]
 colored = "2.1.0"
