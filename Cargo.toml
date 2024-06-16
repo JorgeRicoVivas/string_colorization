@@ -1,5 +1,5 @@
 [package]
-name = "parsing_error"
+name = "string_colorization"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,9 +7,3 @@ edition = "2021"
 
 [dependencies]
 colored = "2.1.0"
-itertools = "0.13.0"
-indent = "0.1.1"
-
-[features]
-default = []
-std = []
